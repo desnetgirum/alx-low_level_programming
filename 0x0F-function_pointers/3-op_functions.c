@@ -12,6 +12,7 @@ int op_add(int a, int b)
 {
 	return (a + b);
 }
+
 /**
  *  * op_sub - 5 functions
  *   * @a: input one
@@ -22,6 +23,7 @@ int op_sub(int a, int b)
 {
 	return (a - b);
 }
+
 /**
  *  * op_mul - 5 functions
  *   * @a: input one
@@ -32,6 +34,7 @@ int op_mul(int a, int b)
 {
 	return (a * b);
 }
+
 /**
  *  * op_div - 5 functions
  *   * @a: input one
@@ -42,6 +45,7 @@ int op_mul(int a, int b)
 {
 	return (a / b);
 }
+
 /**
  *  * op_mod - 5 functions
  *   * @a: input one

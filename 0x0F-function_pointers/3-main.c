@@ -40,6 +40,7 @@ int main(int argc, char *argv[])
 		printf("Error\n");
 		exit(100);
 	}
+
 	res = get_op_func(get_op);
 	ans = res(one, two);
 
